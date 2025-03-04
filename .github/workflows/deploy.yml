@@ -30,7 +30,7 @@ jobs:
           find public/ -name "*.html" -delete
 
       - name: Copy decrypt.html to public folder
-        run: cp public/decrypt.html public/
+        run: cp decrypt.html public/
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
