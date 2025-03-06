@@ -1,0 +1,4 @@
+baseURL = 'https://amin1384movahedi.github.io/'
+languageCode = 'en-us'
+title = 'Amin Blog The Scientist'
+theme = 'contrast-hugo'
