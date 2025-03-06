@@ -1,4 +1,4 @@
-baseURL = 'https://amin1384movahedi.github.io/'
+baseURL = 'https://amin1384movahedi.github.io/AminBlog/'
 languageCode = 'en-us'
 title = 'Amin Blog The Scientist'
 theme = 'contrast-hugo'
